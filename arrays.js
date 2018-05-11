@@ -22,3 +22,10 @@ function destructivelyAddElementToEndOfArray(array, element) {
   array.push(element)
   return array
 }
+
+function accessElementInArray(array, index) {
+
+  chocolateBars[3] = "kitkat"
+
+  return chocolateBars
+}
